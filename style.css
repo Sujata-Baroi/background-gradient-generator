@@ -1,0 +1,8 @@
+body{
+    text-align: center;
+    font-size: x-large;
+    background: linear-gradient(to right,#ff0000, #ffff00);
+}
+input{
+    margin: 10px;
+}
